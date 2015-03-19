@@ -3,9 +3,10 @@
  
  - This project was a learning experience and therefore the code may not be well commented and much of it could be done better, however, it works.
  - The code it not intended to be compiled. It is intentionally missing some files namely the cocos2dx stuff.
- - This project was made open source to be a source of example code for a complete cocos2dx physics game.
+ - I release most of the code for this project to be a source of example code for a complete cocos2dx physics game.
  - points of interest may be the physics handling as well as the random maze generator.
  
 thnx,
+
 -Zach
 
